@@ -2,7 +2,7 @@
 
 Windows 课程看板，支持课程动态、作业截止提醒、每周课程表和本地自定义任务。
 
-本仓库用于发布软件与记录更新。请在 [Releases](https://github.com/cicfish/le-bu-xue/releases) 下载 `LeBuXue.exe`（乐不学，可自行重命名为“乐不学.exe”）。更新时从托盘退出旧版，再替换 EXE；本地课程缓存、登录会话、设置和自定义任务保存在独立目录。
+本仓库用于发布软件与记录更新。[下载乐不学.exe](https://github.com/cicfish/le-bu-xue/raw/refs/heads/main/%E4%B9%90%E4%B8%8D%E5%AD%A6.exe)。更新时从托盘退出旧版，再替换 EXE；本地课程缓存、登录会话、设置和自定义任务保存在独立目录。
 
 软件当前不提供在线自动更新。每次启动自动同步一次学校数据，此后可点击“立即同步”手动同步。
 
