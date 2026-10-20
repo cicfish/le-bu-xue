@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "name": "乐不学",
+  "filename": "乐不学.exe",
+  "version": "1.0.0",
+  "build": 11,
+  "size_bytes": 76748288,
+  "sha256": "10b9ec036e3180c6f66b0c9088624bbb8da23b0d291ce67f5dfc580010ca41d6",
+  "source_repository": "cicfish/le-bu-xue-source",
+  "source_commit": "3b39b67fb83a6e2f323f6c653e17c4c709ad6da9",
+  "build_date": "2026-10-20",
+  "original_storage_compatible": true,
+  "update_mode": "cover existing installation; preserve existing data directories",
+  "automatic_update_enabled_by_this_publication": false
+}
